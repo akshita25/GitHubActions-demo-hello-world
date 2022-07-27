@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: echo a string
-      run: echo "Welcome to GitHub Actions Demo!"
+      run: echo "hello| Welcome to GitHub Actions Demo!"
   run-windows-command:
     runs-on: windows-latest
     steps:
