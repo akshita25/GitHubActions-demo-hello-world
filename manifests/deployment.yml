@@ -17,3 +17,4 @@ spec:
           image: "akshita5/hello-world-demo:latest"
           ports:
           - containerPort: 1337
+          imagePullPolicy: Always
