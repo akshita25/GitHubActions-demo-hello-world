@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: "hello-world"
-          image: "akshita5/simplewhale:latest"
+          image: "akshita5/hello-world-demo:latest"
           ports:
           - containerPort: 1337
